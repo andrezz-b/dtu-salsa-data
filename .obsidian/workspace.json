@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5eb3d1dcf5873e2b",
+        "id": "a19649276dfe76ac",
         "type": "tabs",
         "children": [
           {
-            "id": "512f27259f7c67a9",
+            "id": "093c7ddaf7ad57cc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Index)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -193,17 +188,19 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "512f27259f7c67a9",
+  "active": "093c7ddaf7ad57cc",
   "lastOpenFiles": [
+    "Concepts/Gancho.md",
+    "Moves/Super Mario.md",
     "Moves Dump.md",
     "Moves/Sacala Switch.md",
     "Untitled.md",
     "Moves/Sacala.md",
     "Moves/Sombrero Doble.md",
-    "Moves/Super Mario.md",
     "Moves/Together Spin.md",
     "Moves/Torso.md",
     "Moves/Vacilala.md",
@@ -223,7 +220,6 @@
     "Moves/Montaña.md",
     "Moves/Montadito Dos.md",
     "Moves/Prima con Familia.md",
-    "Moves/Sombrero.md",
     "Dashboards/Moves.base",
     "Dashboards/Concepts.base",
     "Dashboards/Untitled.canvas",
