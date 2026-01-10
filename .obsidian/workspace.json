@@ -11,14 +11,15 @@
             "id": "512f27259f7c67a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Moves Dump.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Moves Dump"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Index)"
             }
           }
         ]
@@ -192,12 +193,12 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "remotely-save:Remotely Save": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "512f27259f7c67a9",
   "lastOpenFiles": [
+    "Moves Dump.md",
     "Moves/Sacala Switch.md",
     "Untitled.md",
     "Moves/Sacala.md",
@@ -223,7 +224,6 @@
     "Moves/Montadito Dos.md",
     "Moves/Prima con Familia.md",
     "Moves/Sombrero.md",
-    "Moves/Ochenta y Quatro.md",
     "Dashboards/Moves.base",
     "Dashboards/Concepts.base",
     "Dashboards/Untitled.canvas",
