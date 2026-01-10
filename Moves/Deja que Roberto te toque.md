@@ -22,7 +22,7 @@ exit_moves:
 	- 7 - My right hand on her right shoulder
 - 123 - [[Enchufla]], she rolls in
 	- Swap hands
-	- TODO: Find out how much she needs to roll in as there were multiple occasions where I can't swap hands
+	- You have to be very close to be able to reach around to the hand
 - 5 - I cross back and give her impulse to turn
 - 67 - Mini [[Espejo]]
 - 123 - [[Enchufla]] and finish
