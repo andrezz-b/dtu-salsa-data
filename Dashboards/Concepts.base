@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Concepts")
+    order:
+      - file.name
+      - type
+      - level
+    columnSize:
+      note.type: 158

@@ -1,0 +1,32 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("/Moves")
+    order:
+      - file.name
+      - difficulty
+      - level
+      - type
+      - created_date
+      - file.ctime
+    sort:
+      - property: video_urls
+        direction: ASC
+      - property: file.ctime
+        direction: DESC
+      - property: created_date
+        direction: DESC
+      - property: file.name
+        direction: ASC
+      - property: type
+        direction: ASC
+      - property: usage_frequency
+        direction: ASC
+      - property: move_confidence
+        direction: DESC
+    columnSize:
+      file.name: 219
+      note.level: 198
+      note.vidoe_urls: 486

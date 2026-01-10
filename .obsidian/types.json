@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "related_moves": "multitext",
+    "difficulty": "number",
+    "leader_difficulty": "number",
+    "follower_difficulty": "number",
+    "vidoe_urls": "multitext",
+    "exit_moves": "multitext",
+    "setup_moves": "multitext",
+    "video_urls": "multitext"
+  }
+}
