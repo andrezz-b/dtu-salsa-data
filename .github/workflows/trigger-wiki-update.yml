@@ -1,0 +1,15 @@
+name: Trigger Wiki Update
+on:
+  push:
+    branches:
+      - main
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Repository Dispatch
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.WIKI_UPDATER_TOKEN }}
+          repository: andrezz-b/dtu-salsa-wiki
+          event-type: update-data
