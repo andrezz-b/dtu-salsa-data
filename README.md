@@ -21,7 +21,6 @@ Download and install Obsidian for your operating system:
   
 
 > [!IMPORTANT]
-
 > Even though we use an Obsidian plugin, **Git must be installed on your system** for it to work correctly.
 
   
@@ -133,15 +132,10 @@ git clone https://github.com/andrezz-b/dtu-salsa-data.git
   
 
 > [!WARNING]
-
 > If prompted for a password, you **MUST** use a **Personal Access Token (PAT)**. Your regular GitHub password will **not** work.
-
 >
-
 > 👉 **[Click here to see how to get a PAT](#how-to-get-a-personal-access-token-pat)**
-
 >
-
 > _By cloning successfully, your credentials will be saved by the helper configured in step 2, enabling Obsidian to push changes automatically._
 
   
