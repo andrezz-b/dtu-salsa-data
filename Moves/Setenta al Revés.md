@@ -13,6 +13,8 @@ related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
+video_urls:
+  - https://youtube.com/watch?v=9wePN2mEyQo
 ---
 ## ✍️ Description & Execution
 ### Leader
@@ -30,5 +32,3 @@ exit_moves:
 - This is the core of the move, when called it might consider doing a [[Setenta]] and then during after the [[Enchufla]] you go into this
 ### Follower
 - 
-## 🎥 Video
-- **Video Link:** 

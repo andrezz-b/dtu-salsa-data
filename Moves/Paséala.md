@@ -14,6 +14,8 @@ related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
+video_urls:
+  - https://youtube.com/watch?v=L4vp3sDWRJg
 ---
 ## ✍️ Description & Execution
 ### Leader
@@ -34,5 +36,3 @@ exit_moves:
 - 
 ## 🔗 Connections & Transitions
 - Ends in [[Cuban Hold]], good for [[Crossed Hands]]
-## 🎥 Video
-- **Video Link:** 

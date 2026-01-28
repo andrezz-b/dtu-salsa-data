@@ -13,6 +13,7 @@ related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
+video_urls:
 ---
 ## ✍️ Description & Execution
 ### Leader
@@ -23,5 +24,3 @@ exit_moves:
 - Towards the end you can finish by taking her arm out of the hook and doing [[Dile Que No]]
 ### Follower
 - 
-## 🎥 Video
-- **Video Link:** 

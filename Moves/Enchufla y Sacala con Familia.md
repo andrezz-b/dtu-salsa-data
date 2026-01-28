@@ -13,6 +13,8 @@ related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
+video_urls:
+  - https://youtu.be/QjCJ8azmxmA
 ---
 ## ✍️ Description & Execution
 ### Leader
@@ -29,5 +31,3 @@ exit_moves:
 - 67 - Walk around and get close for finish
 ### Follower
 - 
-## 🎥 Video
-- **Video Link:** 

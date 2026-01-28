@@ -15,6 +15,7 @@ related_moves:
 setup_moves:
 exit_moves:
 video_urls:
+  - https://youtu.be/4WxGBBdXXZ0
 ---
 ## ✍️ Description & Execution
 ### Leader
@@ -59,6 +60,4 @@ video_urls:
 - 123 - Micro basic
 - 567 - [[Sacala]] / [[Vuelta]]
 - TODO: Exit somewhere with [[Enchufla]]
-## 🎥 Video
-- **Video Link:** 
 

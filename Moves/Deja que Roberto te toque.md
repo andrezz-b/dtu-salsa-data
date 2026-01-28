@@ -14,6 +14,8 @@ related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
+video_urls:
+  - https://youtube.com/watch?v=zvYMI9P0Mh8
 ---
 ## ✍️ Description & Execution
 ### Leader
@@ -28,5 +30,3 @@ exit_moves:
 - 123 - [[Enchufla]] and finish
 ### Follower
 - 
-## 🎥 Video
-- **Video Link:** 

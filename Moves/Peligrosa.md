@@ -13,6 +13,8 @@ related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
+video_urls:
+  - https://youtube.com/watch?v=KAny7ZNzXeo
 ---
 ## ✍️ Description & Execution
 ### Leader
@@ -34,5 +36,3 @@ exit_moves:
 - [[Peligrosa]], [[Candado]], [[Peligrosa]], [[Setenta al Revés]]
 - [[Peligrosa]], [[Candado]], [[Enchufla Moderno]], [[Enchufla Double Spin]]
 - [[Peligrosa]], Explosive [[Setenta]], [[Montadito]]
-## 🎥 Video
-- **Video Link:** 

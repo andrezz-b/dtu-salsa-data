@@ -13,7 +13,9 @@ related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
-  - - - Dile Que No
+  - Dile Que No
+video_urls:
+  - https://youtu.be/Qz50-w3YdOc
 ---
 ## ✍️ Description & Execution
 ### Leader
@@ -26,5 +28,3 @@ exit_moves:
 - 67 - Walk around, end up close for finish
 ### Follower
 - 
-## 🎥 Video
-- **Video Link:** 
