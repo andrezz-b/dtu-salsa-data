@@ -14,6 +14,8 @@ related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
+video_urls:
+  - https://youtu.be/AfoHXW_9khU
 ---
 ## ✍️ Description & Execution
 ### Leader
@@ -33,5 +35,3 @@ exit_moves:
 - 23 - I step forward, our arms are spread
 	- Walk around
 - 567 - She turns I walk around
-## 🎥 Video
-- **Video Link:** 

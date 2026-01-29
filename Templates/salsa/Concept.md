@@ -11,5 +11,3 @@ related_moves:
 ---
 ## ✍️ Description
 - 
-## 🎥 Media
-- **Video Link:**

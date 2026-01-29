@@ -21,6 +21,4 @@ video_urls:
 - 
 ### Follower
 - 
-## 🎥 Video
-- **Video Link:** 
 
