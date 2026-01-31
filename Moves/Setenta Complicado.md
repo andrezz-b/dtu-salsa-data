@@ -13,6 +13,8 @@ related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
+video_urls:
+  - https://youtu.be/TJTLkJD04a8
 ---
 ## ✍️ Description & Execution
 ### Leader
@@ -27,5 +29,3 @@ exit_moves:
  - 567 - Hand on Shoulder [[Ronde]] into finish
 ### Follower
 - 
-## 🎥 Video
-- **Video Link:** 

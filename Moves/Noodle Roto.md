@@ -15,6 +15,7 @@ related_moves:
 setup_moves:
 exit_moves:
 video_urls:
+  - https://youtu.be/_6u0p5Hmyo0
 ---
 ## ✍️ Description & Execution
 ### Leader
@@ -34,6 +35,4 @@ video_urls:
 - 
 ## 🔗 Connections & Transitions
 - [[Both Hands Hold]] right into [[Noodle Complicado]]
-## 🎥 Video
-- **Video Link:** 
 

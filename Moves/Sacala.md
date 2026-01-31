@@ -14,6 +14,8 @@ related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
+video_urls:
+  - https://www.youtube.com/watch?v=1PYKCF5_U88
 ---
 ## ✍️ Description & Execution
 ### Leader
@@ -30,5 +32,3 @@ exit_moves:
 - 
 ## ✨ Variations
 - Right before or in [[Dile Que No Position]] switch to right hand, do it with the right hand, more forwards backwards (less turning towards her, I think)
-## 🎥 Video
-- **Video Link:** 

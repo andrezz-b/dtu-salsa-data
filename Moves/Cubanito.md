@@ -15,6 +15,8 @@ related_moves:
 setup_moves:
   - "[[Enchufla]]"
 exit_moves:
+video_urls:
+  - https://www.youtube.com/watch?v=oVNfzxVhdDw
 ---
 ## ✍️ Description & Execution
 ### Leader
@@ -30,5 +32,3 @@ exit_moves:
 - Before doing the [[Enchufla]] for the exit you are in [[Crossed Hands]]
 ### To [[Cubanita]]
 - After exit, instead of [[Enchufla]] go into [[Cubanita]]
-## 🎥 Video
-- **Video Link:** 

@@ -25,5 +25,3 @@ video_urls: https://youtu.be/qx21fNpdNKE?si=HZqfRdEDCklucIIm
 123-567: [[Dile Que No]] with next partner
 ### Follower
 - 
-## 🎥 Video
-- **Video Link:** https://youtu.be/qx21fNpdNKE?si=HZqfRdEDCklucIIm

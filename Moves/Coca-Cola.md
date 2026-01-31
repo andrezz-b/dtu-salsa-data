@@ -14,6 +14,8 @@ related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
+video_urls:
+  - https://www.youtube.com/watch?v=Z0lmg0GXz9I
 ---
 ## ✍️ Description & Execution
 ### Leader
@@ -24,6 +26,4 @@ exit_moves:
 	- See [[Double Spin]] for technique (but you just do 1 spin)
 ### Follower
 - 
-## 🎥 Video
-- **Video Link:** 
 

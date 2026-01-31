@@ -13,6 +13,7 @@ related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
+video_urls:
 ---
 ## ✍️ Description & Execution
 ### Leader
@@ -26,5 +27,3 @@ exit_moves:
 - 567 - [[Ronde]]
 ### Follower
 - 
-## 🎥 Video
-- **Video Link:** 

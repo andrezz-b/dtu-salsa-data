@@ -14,6 +14,8 @@ related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
+video_urls:
+  - https://www.youtube.com/watch?v=XsgRLVbCsxU
 ---
 ## ✍️ Description & Execution
 ### Leader
@@ -24,6 +26,4 @@ exit_moves:
 - 123-567 Lead a [[Dile Que No]]
 ### Follower
 - 
-## 🎥 Video
-- **Video Link:** 
 

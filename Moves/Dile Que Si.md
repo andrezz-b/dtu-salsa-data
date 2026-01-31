@@ -13,6 +13,8 @@ related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
+video_urls:
+  - https://www.youtube.com/watch?v=h8eDAwO1yBA
 ---
 ## ✍️ Description & Execution
 ### Leader
@@ -20,5 +22,3 @@ exit_moves:
 - 567 - Turn for her, I walk around and end in [[Close Position]]
 ### Follower
 - 
-## 🎥 Video
-- **Video Link:** 

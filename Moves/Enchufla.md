@@ -14,6 +14,8 @@ related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
+video_urls:
+  - https://www.youtube.com/watch?v=Z_s68llhRI8
 ---
 ## ✍️ Description & Execution
 ### Leader
@@ -24,6 +26,4 @@ exit_moves:
 	- Little flick on 7 to straighten her out
 ### Follower
 - 
-## 🎥 Video
-- **Video Link:** 
 

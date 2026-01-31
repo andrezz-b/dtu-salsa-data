@@ -13,6 +13,8 @@ related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
+video_urls:
+  - https://www.youtube.com/watch?v=ZGLphJksPso
 ---
 ## ✍️ Description & Execution
 ### Leader
@@ -22,5 +24,3 @@ exit_moves:
 	- 567 - I can do a [[Ronde]] (You have to calculate it so you are ready for [[Dile Que No]] on 1)
 ### Follower
 - 
-## 🎥 Video
-- **Video Link:**

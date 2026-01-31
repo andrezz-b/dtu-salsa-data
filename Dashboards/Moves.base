@@ -4,6 +4,7 @@ views:
     filters:
       and:
         - file.inFolder("/Moves")
+        - video_urls.isEmpty()
     order:
       - file.name
       - difficulty
@@ -11,7 +12,10 @@ views:
       - type
       - created_date
       - file.ctime
+      - video_urls
     sort:
+      - property: level
+        direction: ASC
       - property: video_urls
         direction: ASC
       - property: file.ctime

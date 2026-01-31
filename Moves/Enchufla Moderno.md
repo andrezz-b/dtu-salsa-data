@@ -14,6 +14,8 @@ related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
+video_urls:
+  - https://www.youtube.com/watch?v=WsSLytbGcCQ
 ---
 ## ✍️ Description & Execution
 ### Leader
@@ -25,5 +27,3 @@ exit_moves:
 - 
 ## 🔗 Connections & Transitions
 - We are in [[Crossed Hands]] so we can do something with that
-## 🎥 Video
-- **Video Link:** 

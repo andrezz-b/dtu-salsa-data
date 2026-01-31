@@ -14,6 +14,8 @@ related_moves:
 setup_moves:
 exit_moves:
   - "[[Mambo]]"
+video_urls:
+  - https://www.youtube.com/watch?v=_YfVAAss0Xw
 ---
 ## ✍️ Description & Execution
 ### Leader
@@ -27,5 +29,3 @@ exit_moves:
 ## ✨ Variations
 ### Sombrero con Mambo
 - While in [[Sombrero Finish]] position don't let go and do 1x8 count of [[Mambo]]
-## 🎥 Video
-- **Video Link:** 

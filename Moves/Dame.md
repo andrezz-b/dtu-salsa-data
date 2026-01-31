@@ -14,6 +14,8 @@ related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
+video_urls:
+  - https://www.youtube.com/watch?v=HuAXZzMrU88
 ---
 ## ✍️ Description & Execution
 ### Leader
@@ -23,8 +25,3 @@ exit_moves:
 - 567 - Finish [[Dile Que No]]
 ### Follower
 - 
-## ✨ Variations
-### Dame Dos
-- Skip the next partner, have [[Dile Que No]] with the following one
-## 🎥 Video
-- **Video Link:** 

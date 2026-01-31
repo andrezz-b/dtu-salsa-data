@@ -14,6 +14,8 @@ related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
+video_urls:
+  - https://www.youtube.com/watch?v=TrDuKwlyXG4
 ---
 ## ✍️ Description & Execution
 ### Leader
@@ -23,6 +25,4 @@ exit_moves:
 - 67 - Face towards her
 ### Follower
 - 
-## 🎥 Video
-- **Video Link:** 
 

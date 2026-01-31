@@ -2,18 +2,19 @@
 type: partner
 difficulty: 1.5
 level: beginner
-leader_difficulty: 
-follower_difficulty: 
+leader_difficulty:
+follower_difficulty:
 created_date: 2025-11-17, 17:01
 updated_date: 2025-11-17, 17:03
 tags:
   - salsa/move
 aliases:
-
 related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
+video_urls:
+  - https://www.youtube.com/watch?v=rvOKVI3WtVY
 ---
 ## ✍️ Description & Execution
 ### Leader
@@ -31,7 +32,5 @@ exit_moves:
 ### To [[Cubanito]]
 - On 3 of diagonal go under left hand
 - 567 - reposition and ask for the other hand
-## 🎥 Video
-- **Video Link:**
 
 

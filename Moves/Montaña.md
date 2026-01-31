@@ -14,6 +14,8 @@ related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
+video_urls:
+  - https://www.youtube.com/watch?v=fKMpo5bdIjU
 ---
 ## ✍️ Description & Execution
 ### Leader
@@ -25,5 +27,3 @@ exit_moves:
 - 567 - [[Sombrero Finish]]
 ### Follower
 - 
-## 🎥 Video
-- **Video Link:** 
