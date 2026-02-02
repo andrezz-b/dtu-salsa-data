@@ -1,0 +1,13 @@
+name: Trigger Wiki Build
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Netlify Build
+        run: curl -X POST -d '{}' "${{ secrets.NETLIFY_BUILD_HOOK_URL }}"
