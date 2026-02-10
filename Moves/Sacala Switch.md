@@ -36,7 +36,7 @@ video_urls:
 	- 3 - Right hand on *followers* shoulder
 ---
 - This can be looped as you end in [[Dile Que No Position]]
-	- A funny combo is to do 2 switches (follower cooperates) into [[Noodle Complicado]]
+	- A funny combo is to do 2 switches (follower cooperates) into [[Nudo Complicado]]
 ## 🎥 Video
 - **Video Link:** 
 

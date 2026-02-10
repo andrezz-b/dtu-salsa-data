@@ -9,7 +9,7 @@ updated_date: 2025-11-26, 23:13
 tags:
   - salsa/move
 aliases:
-  - Broken Noodle
+  - Broken Nudo (Knot)
 related_concepts:
 related_moves:
 setup_moves:
@@ -19,7 +19,7 @@ video_urls:
 ---
 ## ✍️ Description & Execution
 ### Leader
-- Same start as [[Noodle Complicado]]
+- Same start as [[Nudo Complicado]]
 - 123 567 - Vuelta on the go
 	- My right hand goes in front of her
 	- My left hand goes over my head and behind
@@ -34,5 +34,5 @@ video_urls:
 ### Follower
 - 
 ## 🔗 Connections & Transitions
-- [[Both Hands Hold]] right into [[Noodle Complicado]]
+- [[Both Hands Hold]] right into [[Nudo Complicado]]
 
