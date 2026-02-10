@@ -15,7 +15,7 @@ related_moves:
 setup_moves:
 exit_moves:
 video_urls:
-  - https://youtu.be/4WxGBBdXXZ0
+  - https://youtu.be/HJVN79S_D4o
 ---
 ## ✍️ Description & Execution
 ### Leader
