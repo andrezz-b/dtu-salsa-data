@@ -9,7 +9,7 @@ updated_date: 2026-02-09, 21:45
 tags:
   - salsa/move
 aliases:
-  - 
+  - Reverse Vuelta
 related_concepts:
 related_moves:
 setup_moves:
