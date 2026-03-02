@@ -11,6 +11,7 @@ related_moves:
 ---
 ## ✍️ Description
 - Right hand to right hand, arm wrestling like hold
+	- Thumbs should not closed
 - This hold usually occurs in the [[Dile Que No Position]]
 - Technically a [[Crossed Hands]] (with 1 hand), but we can ask for the other one
 ## 🎥 Media
