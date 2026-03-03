@@ -9,15 +9,18 @@ updated_date: 2026-03-02, 22:02
 tags:
   - salsa/move
 aliases:
-  - 
+  - Walking Moves
 related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
 video_urls:
+  - https://www.youtube.com/watch?v=5eTnZIUFSrk
 ---
 ## ✍️ Description & Execution
 - Collection of moves where you walk around the dance floor
+- More explanation video: 
+	- [🇨🇺 Desplazamientos: adding movement to casino](https://www.youtube.com/watch?v=-bcB2rr2gac)
 ### Basic Walk
 #### Leader
 - Hold the followers right with your left, around the wrist (don't grab with all the fingers)
