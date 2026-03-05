@@ -21,5 +21,10 @@ exit_moves:
 - 5 - step forward
 - 6 - turning left, you should be facing back
 - 7 - complete turn
-## 🎥 Video
-- **Video Link:** 
+## Extensions
+### Espejo (More Spin)
+- Look at point, quickly turn your head after looking behind
+- 123 - Normal
+- 5 - Step forward, preparation, twist torso and hands right
+- 6 - Step, look behind
+- 7 - Spin, step hard to stop yourself, overshoot a bit

@@ -16,14 +16,19 @@ exit_moves:
 ---
 ## ✍️ Description & Execution
 ### Leader
-
-Lower body [[Guapea]]
-
----
-Upper body
+- [[Guapea]]
 - Clap at 1
 - 567 - Re-establish [[Guapea Hold]]
 ### Follower
-
-## 🎥 Video
-- **Video Link:** 
+- [[Guapea]]
+- Clap at 1
+- 567 - Re-establish [[Guapea Hold]]
+## Extensions
+### Dos Flies 
+- Clap 2 times, rest is the same
+### Tres Flies 
+- Clap 3 times
+- You can clap:
+	- From top to bottom
+	- Bottom to top
+	- Same Place

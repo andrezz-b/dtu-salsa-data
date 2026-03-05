@@ -16,12 +16,16 @@ setup_moves:
 exit_moves:
 ---
 ## ✍️ Description & Execution
+- [[Enchufla]] with clapping
+	- Amount of claps depends on the call
+	- Una - Clap on 7
+	- Dos - Clap on 7, 8
+	- Tres - Clap on 7, 8, 1
+		- Start [[Dile Que No]] without connection, establish frame after clapping
 ### Leader
 - 123 - [[Enchufla]]
-- 567 - Walk to the follower's right side, pointing the next partner raising your right arm, release left hand and clap at 7, 8, and 1
-- Since we're clapping, the follower will have to begin the [[Dile Que No]] on their own, we establish back the frame right after the clapping
+- 567 123 - [[Dile Que No]] with the next person
+	- Clap depending on what is called
 ### Follower
 - 
-## 🎥 Video
-- **Video Link:** 
 

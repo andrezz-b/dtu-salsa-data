@@ -1,0 +1,32 @@
+---
+type: partner
+difficulty: 3.5
+level: advanced
+leader_difficulty:
+follower_difficulty:
+created_date: 2026-03-05, 20:19
+updated_date: 2026-03-05, 23:03
+tags:
+  - salsa/move
+aliases:
+  - 
+related_concepts:
+related_moves:
+setup_moves:
+exit_moves:
+video_urls:
+  - https://www.youtube.com/watch?v=i6RgR1_jfNo
+---
+## ✍️ Description & Execution
+### Leader
+- 123 - [[Coca-Cola Two Hands]]
+- 567 - Right goes down left stays up
+	- Keep the hands you should end up quite close, "Rolled in"
+- 123 567 - You may do [[Back Step]] in this position
+- 123 - [[Back Step]]
+- 567 - Lead 1.5 [[Vuelta]]
+	- You may give a push with the right hand
+	- You may keep the right hand and end up [[Hammerlock]]
+	- You may only do a half [[Vuelta]]
+### Follower
+- 
