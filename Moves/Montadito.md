@@ -18,7 +18,7 @@ setup_moves:
 exit_moves:
   - "[[Enchufla]]"
 video_urls:
-  - https://youtube.com/watch?v=DbB6mC1ToEw
+  - https://youtube.com/shorts/DbB6mC1ToEw?feature=share
 ---
 ## ✍️ Description & Execution
 ### Leader
