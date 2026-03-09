@@ -5,7 +5,7 @@ level: intermediate
 leader_difficulty:
 follower_difficulty:
 created_date: 2026-03-02, 22:02
-updated_date: 2026-03-02, 22:02
+updated_date: 2026-03-09, 22:37
 tags:
   - salsa/move
 aliases:
@@ -64,4 +64,18 @@ video_urls:
 - 123 567 - [[Dile Que No]]
 - 123 - On spot (while the leader is walking)
 - 567 - Walk
-
+### Hand on Back Walk
+- Stand side by side, follower on the left of the leader
+- Leader's left hand on follower's right shoulder
+- Follower's right hand in front palm down, leader holding it with his right
+- You walk in this position
+- To enter this position use [[Lazo]] and when the follower is on your left switch the hand turning her, and put the left on her back
+#### Switch Side
+##### Leader
+- 1 - Very small step forward
+- 2 - Cross behind, start pushing the follower to the right with your left hand
+	- Let go with the right hand
+- 3 - Get to the other side
+- 567 - Keep Walking
+- Can be done in same in other direction
+- During 567 you can also go under the new hand, and go for [[Close Position]]

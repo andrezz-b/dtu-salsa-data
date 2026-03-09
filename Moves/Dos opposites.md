@@ -5,7 +5,7 @@ level: intermediate
 leader_difficulty:
 follower_difficulty:
 created_date: 2025-11-04, 16:55
-updated_date: 2025-11-26, 10:19
+updated_date: 2026-03-09, 22:27
 tags:
   - salsa/move
 aliases:
@@ -23,5 +23,3 @@ exit_moves:
 - 567 - [[Corona Finish]]
 ### Follower
 - 
-## 🎥 Video
-- **Video Link:** 

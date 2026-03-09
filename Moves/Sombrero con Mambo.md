@@ -5,7 +5,7 @@ level: intermediate
 leader_difficulty:
 follower_difficulty:
 created_date: 2025-11-04, 22:51
-updated_date: 2025-11-08, 22:24
+updated_date: 2026-03-09, 22:26
 tags:
   - salsa/move
 aliases:
