@@ -1,0 +1,30 @@
+formulas:
+  level_num: if(level == "beginner", 1, if(level == "intermediate", 2, 3))
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("/Moves")
+        - or:
+            - video_urls.isEmpty()
+            - generic_video == true
+    groupBy:
+      property: type
+      direction: ASC
+    order:
+      - file.name
+      - difficulty
+      - formula.level_num
+      - level
+      - type
+      - generic_video
+    sort:
+      - property: formula.level_num
+        direction: ASC
+      - property: type
+        direction: ASC
+    columnSize:
+      file.name: 219
+      note.level: 198
+      file.ctime: 169

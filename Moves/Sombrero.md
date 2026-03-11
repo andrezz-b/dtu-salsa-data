@@ -16,6 +16,7 @@ exit_moves:
   - "[[Mambo]]"
 video_urls:
   - https://www.youtube.com/watch?v=_YfVAAss0Xw
+generic_video: true
 ---
 ## ✍️ Description & Execution
 ### Leader

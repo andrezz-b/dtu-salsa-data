@@ -1,11 +1,11 @@
 ---
 type: rueda
-difficulty: 1.5
+difficulty: 1
 level: beginner
 leader_difficulty:
 follower_difficulty:
-created_date: 2026-01-30, 11:31
-updated_date: 2026-01-30, 11:31
+created_date: 2026-03-11, 18:53
+updated_date: 2026-03-11, 18:54
 tags:
   - salsa/move
 aliases:
@@ -15,12 +15,13 @@ related_moves:
 setup_moves:
 exit_moves:
 video_urls:
-  - https://youtu.be/CEhykbxRV6k
+  - https://www.youtube.com/watch?v=zY2_C9N1ymA
 generic_video: true
 ---
 ## ✍️ Description & Execution
+- Freeze and do a pose, for 1 x 8 count
 ### Leader
-- [[Dame]] but, skip the next partner, have [[Dile Que No]] with the following one 
+- 
 ### Follower
 - 
 

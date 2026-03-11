@@ -1,11 +1,11 @@
 ---
 type: rueda
-difficulty: 1.5
+difficulty: 1
 level: beginner
 leader_difficulty:
 follower_difficulty:
-created_date: 2026-01-30, 11:31
-updated_date: 2026-01-30, 11:31
+created_date: 2026-03-11, 18:33
+updated_date: 2026-03-11, 18:33
 tags:
   - salsa/move
 aliases:
@@ -15,12 +15,15 @@ related_moves:
 setup_moves:
 exit_moves:
 video_urls:
-  - https://youtu.be/CEhykbxRV6k
+  - https://www.youtube.com/watch?v=GU-y05c2pys
 generic_video: true
 ---
 ## ✍️ Description & Execution
+- Switch move during [[Vamos Arriba]]
 ### Leader
-- [[Dame]] but, skip the next partner, have [[Dile Que No]] with the following one 
+- 1 - Lift the left hand
+- 23 - Go under
+- 567 - Connect with the next partner
 ### Follower
 - 
 

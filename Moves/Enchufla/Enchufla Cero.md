@@ -1,5 +1,5 @@
 ---
-type: partner
+type: rueda
 difficulty: 1
 level: beginner
 leader_difficulty:
@@ -16,6 +16,7 @@ setup_moves:
 exit_moves:
 video_urls:
   - https://www.youtube.com/watch?v=XsgRLVbCsxU
+generic_video: true
 ---
 ## ✍️ Description & Execution
 ### Leader

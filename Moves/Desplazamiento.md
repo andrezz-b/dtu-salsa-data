@@ -16,6 +16,7 @@ setup_moves:
 exit_moves:
 video_urls:
   - https://www.youtube.com/watch?v=5eTnZIUFSrk
+generic_video: true
 ---
 ## ✍️ Description & Execution
 - Collection of moves where you walk around the dance floor

@@ -15,6 +15,7 @@ setup_moves:
 exit_moves:
 video_urls:
   - https://www.youtube.com/watch?v=gbdKw2641Bc
+generic_video: true
 ---
 ## ✍️ Description & Execution
 ### Leader

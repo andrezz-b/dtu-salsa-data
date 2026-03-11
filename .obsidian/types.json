@@ -9,6 +9,7 @@
     "follower_difficulty": "number",
     "exit_moves": "multitext",
     "setup_moves": "multitext",
-    "video_urls": "multitext"
+    "video_urls": "multitext",
+    "generic_video": "checkbox"
   }
 }

@@ -17,6 +17,7 @@ setup_moves:
 exit_moves:
 video_urls:
   - https://www.youtube.com/watch?v=wfV803qJzc8
+generic_video: true
 ---
 ## ✍️ Description & Execution
 - The direction of the switch is the same as [[Dame]]
