@@ -9,7 +9,7 @@ updated_date: 2025-11-24, 22:13
 tags:
   - salsa/move
 aliases:
-  - 
+  - Cero
 related_concepts:
 related_moves:
 setup_moves:

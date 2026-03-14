@@ -18,9 +18,9 @@ exit_moves:
 ## ✍️ Description & Execution
 - [[Enchufla]] with clapping
 	- Amount of claps depends on the call
-	- Una - Clap on 7
-	- Dos - Clap on 7, 8
-	- Tres - Clap on 7, 8, 1
+	- Una (1) - Clap on 7
+	- Dos (2) - Clap on 7, 8
+	- Tres (3) - Clap on 7, 8, 1
 		- Start [[Dile Que No]] without connection, establish frame after clapping
 ### Leader
 - 123 - [[Enchufla]]
