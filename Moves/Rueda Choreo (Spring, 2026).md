@@ -43,6 +43,7 @@ video_urls:
 - [[Dame]] (1 x 8 count)
 	- Change during cubanita
 	- 67 - Larger steps to the right so you can change to the new partner
+		- Pull the current follower to the left so she can change easier
 	- 123 567 - [[Cubanita]] with the new partner
 #### [1:56]
 - [[Cero y Dame]] (3 x 8 counts)

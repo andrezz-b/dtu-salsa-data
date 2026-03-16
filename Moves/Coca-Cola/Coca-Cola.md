@@ -23,6 +23,5 @@ video_urls:
 	- 3 - Change hands to a palms up position (makes spin easier)
 	- One finger hold
 - 567 - Turn the follower inside (counter clockwise)
-	- See [[Double Spin]] for technique (but you just do 1 spin)
 ### Follower
 - 

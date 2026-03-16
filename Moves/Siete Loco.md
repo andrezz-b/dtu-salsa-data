@@ -5,7 +5,7 @@ level: intermediate
 leader_difficulty:
 follower_difficulty:
 created_date: 2026-03-16, 20:48
-updated_date: 2026-03-16, 21:11
+updated_date: 2026-03-16, 21:12
 tags:
   - salsa/move
 aliases:
@@ -51,7 +51,7 @@ generic_video: true
 	- [[Corona Finish]] on me
 - 123 567 - [[Sacala]]
 	- [[Corona Finish]] for leader
-- - 123 567 - [[Dile Que No]]
+- 123 567 - [[Dile Que No]]
 ## Fancy Version
 - Version in the video, a bit faster and harder to do
 - Everything is the same until the part where you both turn
