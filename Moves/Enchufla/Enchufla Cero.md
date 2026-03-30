@@ -14,7 +14,8 @@ related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
-video_urls:
+video_urls: 
+  - https://youtu.be/XmjhqVk4kEE
   - https://www.youtube.com/watch?v=XsgRLVbCsxU
 generic_video: true
 ---

@@ -9,6 +9,7 @@ updated_date: 2025-11-07, 19:25
 tags:
   - salsa/move
 aliases:
+  - Enchufla Espejo
 related_concepts:
 related_moves:
 setup_moves:
@@ -18,7 +19,8 @@ exit_moves:
 ### Leader
 - 123 - [[Enchufla]]
 - 567 - [[Espejo]], going under the hand
+	- 5 - On spot or little bit back, pull follower
+- Possible to repeat
+	- If repeating you don't put the hand for the next [[Enchufla]] all the way down as there is no time
 ### Follower
 - 
-## 🎥 Video
-- **Video Link:** 
