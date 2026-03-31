@@ -5,7 +5,7 @@ level: beginner
 leader_difficulty:
 follower_difficulty:
 created_date: 2025-11-02, 20:33
-updated_date: 2025-11-07, 19:25
+updated_date: 2026-03-31, 11:46
 tags:
   - salsa/move
 aliases:
@@ -13,6 +13,8 @@ related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
+video_urls:
+  - https://youtu.be/RQ4ibCPsznk
 ---
 ## ✍️ Description & Execution
 ### Leader
@@ -22,5 +24,3 @@ exit_moves:
 - 67 - Normal basic
 ### Follower
 - 
-## 🎥 Video
-- **Video Link:** 

@@ -15,6 +15,7 @@ related_moves:
 setup_moves:
 exit_moves:
 video_urls:
+  - https://youtu.be/Ue9VEMpATt8
 ---
 ## ✍️ Description & Execution
 - Basic left turn (counter clockwise)

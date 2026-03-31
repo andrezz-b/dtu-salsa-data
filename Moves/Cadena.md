@@ -30,4 +30,4 @@ video_urls:
 - 567 - Leader goes inside
 ---
 - Repeat until [[Enchufla]] or something is called to exit
-- You are just doing the [[Back Step]]
+- You are just doing the [[Diagonal Step]]

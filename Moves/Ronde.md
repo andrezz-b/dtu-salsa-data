@@ -13,6 +13,8 @@ related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
+video_urls:
+  - https://youtu.be/Hl7t68jwVNU
 ---
 ## ✍️ Description & Execution
 ### Steps

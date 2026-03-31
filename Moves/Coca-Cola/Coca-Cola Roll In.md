@@ -22,8 +22,8 @@ video_urls:
 - 123 - [[Coca-Cola Two Hands]]
 - 567 - Right goes down left stays up
 	- Keep the hands you should end up quite close, "Rolled in"
-- 123 567 - You may do [[Back Step]] in this position
-- 123 - [[Back Step]]
+- 123 567 - You may do [[Diagonal Step]] in this position
+- 123 - [[Diagonal Step]]
 - 567 - Lead 1.5 [[Vuelta]]
 	- You may give a push with the right hand
 	- You may keep the right hand and end up [[Hammerlock]]

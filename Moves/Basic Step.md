@@ -15,6 +15,7 @@ related_moves:
 setup_moves:
 exit_moves:
 video_urls:
+  - https://youtu.be/EA2i3AfRSVU
 ---
 ## ✍️ Description & Execution
 - 1 - Forward, Left leg
