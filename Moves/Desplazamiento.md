@@ -5,7 +5,7 @@ level: intermediate
 leader_difficulty:
 follower_difficulty:
 created_date: 2026-03-02, 22:02
-updated_date: 2026-03-09, 22:37
+updated_date: 2026-04-01, 10:50
 tags:
   - salsa/move
 aliases:
@@ -15,8 +15,8 @@ related_moves:
 setup_moves:
 exit_moves:
 video_urls:
+  - https://youtu.be/5HuUgrPlQCs
   - https://www.youtube.com/watch?v=5eTnZIUFSrk
-generic_video: true
 ---
 ## ✍️ Description & Execution
 - Collection of moves where you walk around the dance floor
