@@ -15,10 +15,11 @@ related_moves:
 setup_moves:
 exit_moves:
 video_urls:
+  - https://youtube.com/shorts/LGBqk7wLM6g
 ---
 ## ✍️ Description & Execution
 - From [[Close Position]]
-- 360° turn in 2 x 8 counts
+- 360° turn in 1 x 8 count
 ## Vuelta al Mundo Caminando
 - Rueda specific
 - Turning and walking (direction of [[Vamos Arriba]])
