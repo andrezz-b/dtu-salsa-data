@@ -5,7 +5,7 @@ level: intermediate
 leads_difficulty:
 follows_difficulty:
 created_date: 2025-11-19, 22:28
-updated_date: 2025-11-19, 22:28
+updated_date: 2026-04-04, 11:51
 tags:
   - salsa/move
 aliases:
@@ -14,6 +14,8 @@ related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
+video_urls:
+  - https://youtube.com/shorts/tQlvVwGm908
 ---
 ## ✍️ Description & Execution
 ### Leader
@@ -24,6 +26,4 @@ exit_moves:
 - 567 - Go back like [[Enchufla Doble]] or [[Enchufla Moderno]]
 ### Follower
 - 
-## 🎥 Video
-- **Video Link:** 
 
