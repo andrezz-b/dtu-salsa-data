@@ -5,7 +5,7 @@ level: intermediate
 leader_difficulty:
 follower_difficulty:
 created_date: 2025-11-08, 19:13
-updated_date: 2025-11-08, 22:35
+updated_date: 2026-04-05, 12:11
 tags:
   - salsa/move
 aliases:
@@ -14,6 +14,8 @@ related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
+video_urls:
+  - https://youtube.com/shorts/59xFZw0JgRg
 ---
 ## ✍️ Description & Execution
 ### Leader
@@ -24,5 +26,3 @@ exit_moves:
 - 67 - Towards next partner or into next move
 ### Follower
 - 
-## 🎥 Video
-- **Video Link:** 

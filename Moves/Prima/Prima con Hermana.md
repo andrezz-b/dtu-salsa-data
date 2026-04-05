@@ -13,6 +13,8 @@ related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
+video_urls:
+  - https://youtube.com/shorts/L4uaRliUPZk
 ---
 ## ✍️ Description & Execution
 ### Leader
@@ -21,5 +23,3 @@ exit_moves:
 - 123567 - [[Enchufla]]
 ### Follower
 - 
-## 🎥 Video
-- **Video Link:** 

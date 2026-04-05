@@ -14,6 +14,8 @@ related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
+video_urls:
+  - https://youtube.com/shorts/efRYg7I9Nb8
 ---
 ## ✍️ Description & Execution
 ### Leader
@@ -24,5 +26,3 @@ exit_moves:
 - 567 - [[Ronde]], switch to [[Cuban Hold]] towards the end
 ### Follower
 - 
-## 🎥 Video
-- **Video Link:** 

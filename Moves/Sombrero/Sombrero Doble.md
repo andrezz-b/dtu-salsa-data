@@ -14,6 +14,8 @@ related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
+video_urls:
+  - https://youtube.com/shorts/YOzrAvTHsRY
 ---
 ## ✍️ Description & Execution
 ### Leader
@@ -27,5 +29,3 @@ exit_moves:
 ## ✨ Variations
 ### Sombrero Doble con Mambo
 - Do 1x8 of [[Mambo]] in [[Sombrero Finish]] position
-## 🎥 Video
-- **Video Link:**
