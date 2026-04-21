@@ -16,6 +16,7 @@ setup_moves:
 exit_moves:
 video_urls:
   - https://youtube.com/shorts/uKlGTCvBsSA
+  - https://youtube.com/shorts/rVyATPNyYsQ
 ---
 ## ✍️ Description & Execution
 ### Leader
@@ -23,8 +24,8 @@ video_urls:
 	- Walk around
 	- The turning part of [[Ochenta]] needs to be all done on 123 (usually done on 567)
 	- Right hand above her head to her shoulder
-	- Right elbow/forearm should be resting on the follower's chest to block them from moving
-- 567 - Move right hand out and up
+	- Right forearm should be resting on the follower's chest to block them from moving
+- 567 - Move right hand forward and up
 	- It should go in front of her head and behind my head
 	- You are walking side to side (opposite directions)
 	- When finished on 7 turn follower so you are both facing forwards (still side to side)
@@ -37,7 +38,12 @@ video_urls:
 ### Follower
 - 
 ## Easy Version
-- Just a slower start
 - 123 567 - [[Ochenta]]
-- 123 - Right hand above her head to her shoulder
-- Continue as normal
+	- Right hand above her head to her shoulder, her hand should be on her neck
+	- Forearm on her collar bone/chest blocking her movement, slight pressure
+- 123 567 -  Move right hand forward and up
+	- End up side to side (same as in the normal version)
+- 123 567 - [[Sacala]]
+- 123 - [[Lazo]] by sending her behind
+- 567 - [[Double Spin]]
+- 123 567 - [[Dile Que No]]
