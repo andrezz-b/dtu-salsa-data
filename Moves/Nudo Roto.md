@@ -1,6 +1,6 @@
 ---
 type: partner
-difficulty: 4
+difficulty: 3.5
 level: advanced
 leader_difficulty:
 follower_difficulty:

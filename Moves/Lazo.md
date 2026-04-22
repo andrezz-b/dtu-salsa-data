@@ -9,6 +9,7 @@ updated_date: 2026-04-04, 11:56
 tags:
   - salsa/move
 aliases:
+  - Paséala por Arriba
 related_concepts:
 related_moves:
 setup_moves:

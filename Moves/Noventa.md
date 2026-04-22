@@ -14,7 +14,8 @@ related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
-video_urls: 
+video_urls:
+  - https://youtube.com/shorts/VMm78hh7D4E 
   - https://youtube.com/shorts/JZ6N2Yw_IUI
   - https://youtu.be/BATJW8epyF8?feature=shared
 ---
@@ -38,5 +39,3 @@ video_urls:
 - After finishing the hard part don't go for sharp mini [[Espejo]], keep walking
 - 567 123 - You keep walking
 - 567 - Now do the sharp mini [[Espejo]] and finish as usual
-## 🎥 Video
-- **Video Link:** https://youtu.be/BATJW8epyF8?feature=shared

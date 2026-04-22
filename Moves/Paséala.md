@@ -15,6 +15,7 @@ related_moves:
 setup_moves:
 exit_moves:
 video_urls:
+  - https://youtube.com/shorts/IFhmyyS1e8w
   - https://youtube.com/shorts/L4vp3sDWRJg?feature=share
 ---
 ## ✍️ Description & Execution
