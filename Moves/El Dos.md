@@ -1,7 +1,7 @@
 ---
 type: partner
-difficulty: 2.5
-level: advanced
+difficulty: 2
+level: beginner
 leader_difficulty:
 follower_difficulty:
 created_date: 2026-03-22, 12:10
