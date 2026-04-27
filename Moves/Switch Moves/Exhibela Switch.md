@@ -1,5 +1,5 @@
 ---
-type: partner
+type: rueda
 difficulty: 2.5
 level: intermediate
 leader_difficulty:
