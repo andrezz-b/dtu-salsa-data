@@ -10,12 +10,14 @@ tags:
   - salsa/move
   - role-switch
 aliases:
-  - 
+  - Confusión
 related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
 video_urls:
+  - https://www.youtube.com/watch?v=oNPH-eUyUi8
+generic_video: true
 ---
 ## ✍️ Description & Execution
 - This is a [[Role Switch]] move
@@ -38,6 +40,3 @@ video_urls:
 	- Taker their hand in front
 ---
 - This can be looped, because at the end the current *leader* can just go into another one
-## 🎥 Video
-- **Video Link:** 
-

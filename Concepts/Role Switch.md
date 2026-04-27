@@ -8,7 +8,7 @@ tags:
 aliases:
 related_concepts:
 related_moves:
-  - "[[Sacala Switch]]"
+  - "[[Exhibela Switch]]"
   - "[[Dile Que No Switch]]"
 ---
 ## ✍️ Description

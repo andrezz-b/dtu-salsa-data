@@ -5,17 +5,19 @@ level: intermediate
 leader_difficulty:
 follower_difficulty:
 created_date: 2025-12-01, 20:40
-updated_date: 2025-12-01, 20:40
+updated_date: 2026-04-27, 23:06
 tags:
   - salsa/move
   - role-switch
 aliases:
-  - 
+  - Sacala Switch
 related_concepts:
 related_moves:
 setup_moves:
 exit_moves:
 video_urls:
+  - https://www.youtube.com/watch?v=sgbRonqowyU
+generic_video: true
 ---
 ## ✍️ Description & Execution
 - This is a [[Role Switch]] move
@@ -23,6 +25,7 @@ video_urls:
 ### Leader
 - Get into [[Dile Que No Position]]
 - 123 - Start [[Sacala]]
+	- You can change hands
 - 567 - Don't step back but forward, and do half [[Espejo]] (left turn 180°) under the hand
 - 123 - You are now the *follower*
 	- The *leader* should pull you to their side and go from there
@@ -36,7 +39,4 @@ video_urls:
 	- 3 - Right hand on *followers* shoulder
 ---
 - This can be looped as you end in [[Dile Que No Position]]
-	- A funny combo is to do 2 switches (follower cooperates) into [[Nudo Complicado]]
-## 🎥 Video
-- **Video Link:** 
 
