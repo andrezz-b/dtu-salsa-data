@@ -16,7 +16,7 @@ related_moves:
 setup_moves:
 exit_moves:
 video_urls:
-  - https://www.youtube.com/watch?v=EmRpbDrTLSc
+  - https://www.youtube.com/watch?v=FML2L9UzY-s&start=20
 generic_video: true
 ---
 ## ✍️ Description & Execution
